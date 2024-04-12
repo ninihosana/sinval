@@ -1,0 +1,31 @@
+body {
+
+    font-family: "Audiowide", sans-serif;
+
+      
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.h7 {
+    padding: 20%;
+    width: 0 auto;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.imagem video {
+    width: calc(50% - 10px);
+    margin-bottom: 20px;
+}
+.imagem img {
+    width: calc(50% - 10px);
+    margin-bottom: 20px;
+}
