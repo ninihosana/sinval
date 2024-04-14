@@ -1,0 +1,36 @@
+.col { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: navajowhite;
+    align-content: center;
+}
+.texto-principal{
+    font-family: 'Merriweather',cursive;
+    font-size: x-large;
+    margin: 15PX;
+}
+.card img{
+    padding: 20px;
+    margin-top: 20px;
+
+}
+.card-body{
+    background-color:tan;
+}
+.container-cards{
+    padding: 20px;
+    padding-bottom: 20px;
+}
+footer{
+    text-align: center;
+}
+footer p{
+    font-size: x-large;
+    padding: 5px;
+    margin: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: brown;
+}
+footer a{
+    font-size: larger;
+    padding-bottom: 20px;
+    
+}
